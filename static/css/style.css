@@ -5,8 +5,8 @@ body {
 }
   
 .jumbotron {
-    background-image: url(" ");
-    background-size: 100% 100%;
+    background-image: url("../images/biodiversity.jpg");
+    background-size: cover;
     text-align: center;
 }
 

@@ -34,3 +34,5 @@ function buildMetadata(sample) {
     PANEL.append("h6").text(result.location);
   });
 }
+
+
